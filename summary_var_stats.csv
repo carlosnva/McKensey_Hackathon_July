@@ -1,0 +1,11 @@
+,count,mean,std,min,max
+perc_premium_paid_by_cash_credit,79853.0,0.314,0.335,0.0,1.0
+age_in_days,79853.0,18846.697,5208.719,7670.0,37602.0
+Income,79853.0,208847.171,496582.597,24030.0,90262600.0
+Count_3-6_months_late,79756.0,0.249,0.691,0.0,13.0
+Count_6-12_months_late,79756.0,0.078,0.437,0.0,17.0
+Count_more_than_12_months_late,79756.0,0.06,0.312,0.0,11.0
+application_underwriting_score,76879.0,99.067,0.74,91.9,99.89
+no_of_premiums_paid,79853.0,10.864,5.171,2.0,60.0
+premium,79853.0,10924.508,9401.677,1200.0,60000.0
+renewal,79853.0,0.937,0.242,0.0,1.0
